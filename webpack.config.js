@@ -44,9 +44,9 @@ const config = {
       //   test: /\.(htm|html)$/i,
       //   loader: 'html-withimg-loader'
       // }
-      // {
       // 方法三，使用html-loader
       // npm install -D html-loader  
+      // {
       //   test: /\.(html)$/,
       //   use: {
       //     loader: 'html-loader',
