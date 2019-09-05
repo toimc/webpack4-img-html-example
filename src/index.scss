@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Sauce Code Powerline';
+  src: url('./Sauce Code Powerline Light.otf');
+}
+
+body {
+  background: green;
+}
+
+.code {
+  font-size: 16px;
+  color: #333;
+  font-family: 'Sauce Code Powerline';
+}
